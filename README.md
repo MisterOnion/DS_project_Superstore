@@ -1,4 +1,4 @@
-Data Science Fundamentals Project
+<u>Data Science Fundamentals Project</u>
 
 Main Problem: Stagnation or decline of retail sales in the USA
 
